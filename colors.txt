@@ -3,5 +3,7 @@ orange
 yellow
 green
 blue
-indigo
-violet
+indigo 
+
+
+I love rainbow!
